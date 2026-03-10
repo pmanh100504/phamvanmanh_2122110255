@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_dangnhapthieugmail_mk</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88e1c43a-cba2-4cda-93a7-b0e75c350b9d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>dangnhap_tc</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1189429d-3b81-4443-8431-d7cda0094670</testSuiteGuid>
+   <testCaseLink>
+      <guid>68aefd5a-a8e6-4640-8559-f36d4cbe8c81</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/dangnhap_tc</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3c58f991-a6e3-4dcc-bbf0-ab82e16f5c98</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/dangnhap</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>3c58f991-a6e3-4dcc-bbf0-ab82e16f5c98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>fa1e60c3-e4c6-4945-9588-c27743e5dc66</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3c58f991-a6e3-4dcc-bbf0-ab82e16f5c98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>d2a9c88b-a9a9-48b0-b319-03317cc95177</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3c58f991-a6e3-4dcc-bbf0-ab82e16f5c98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ExpectedMsg</value>
+         <variableId>aef9fb49-daf6-478e-833d-dc347ca1ea5f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

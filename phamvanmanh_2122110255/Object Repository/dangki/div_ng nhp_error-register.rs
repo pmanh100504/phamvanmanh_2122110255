@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ng nhp_error-register</name>
+   <tag></tag>
+   <elementGuidId>649decfc-cf84-429d-ba90-aa82135453da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#error-register</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='error-register']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>33c5251e-9982-45b9-8419-d86b76d7599b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group alert alert-danger</value>
+      <webElementGuid>eaf938ed-ee6b-4c1d-b7be-4597504e914e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>error-register</value>
+      <webElementGuid>59e942a2-7112-4849-b336-ab18111f298b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email không được để trốngMật khẩu không được để trống</value>
+      <webElementGuid>0f4b1318-36f6-4112-996f-2b1d7be0845c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;error-register&quot;)</value>
+      <webElementGuid>00c26e57-afd2-42bb-a518-bb347df61587</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='error-register']</value>
+      <webElementGuid>c3e0032d-b1e8-4890-883a-3334912862eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-register']/div[2]/div/div</value>
+      <webElementGuid>709a06f7-af5f-41a2-9e2a-feee8d1935ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[3]/following::div[6]</value>
+      <webElementGuid>fabc15e0-2469-436d-9926-780e2354c497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đóng'])[1]/following::div[6]</value>
+      <webElementGuid>0fced358-4f81-4a22-8da0-d4ed2bb86341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên:'])[1]/preceding::div[1]</value>
+      <webElementGuid>650590b8-f647-4cc7-87bd-8ac6363ce62c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[2]/preceding::div[2]</value>
+      <webElementGuid>dca09675-dda9-41de-8923-04158f49e199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email không được để trống']/parent::*</value>
+      <webElementGuid>67a07f95-d0c7-4485-bcc7-63ca97d9e04b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/form/div[2]/div/div</value>
+      <webElementGuid>7cbcbd05-9004-4846-a190-54f2646ff2a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'error-register' and (text() = 'Email không được để trốngMật khẩu không được để trống' or . = 'Email không được để trốngMật khẩu không được để trống')]</value>
+      <webElementGuid>75f5de76-a005-4040-8ab6-f175cd8716b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

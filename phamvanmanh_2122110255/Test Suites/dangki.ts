@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>dangki</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>44e1d104-9038-40ef-82aa-0edffcd3678a</testSuiteGuid>
+   <testCaseLink>
+      <guid>63055227-c7db-4748-87cb-574cd909e294</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/dangki_tc</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1dd15b01-2924-4e0b-b5cb-cf61ba1b1b90</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/dangki</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>1dd15b01-2924-4e0b-b5cb-cf61ba1b1b90</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name</value>
+         <variableId>f55ba9f2-9f05-4891-8013-56fada1583dd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1dd15b01-2924-4e0b-b5cb-cf61ba1b1b90</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>3a400f48-6ea4-42c2-b08d-33d6453ee1a3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1dd15b01-2924-4e0b-b5cb-cf61ba1b1b90</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>ea1a9ee0-ed1c-42bd-ab0d-83a3eb474207</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1dd15b01-2924-4e0b-b5cb-cf61ba1b1b90</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Reenterpassword</value>
+         <variableId>58fe3291-2d2f-468c-ac78-187e7611cba7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1dd15b01-2924-4e0b-b5cb-cf61ba1b1b90</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ExpectedMsg</value>
+         <variableId>1dcf6fa0-2f94-4a07-a096-5acafc6e2293</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
